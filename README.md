@@ -1,4 +1,4 @@
-## 👋🌎​ Hello World I'm Luisa
+## 👋🌎​ Hello World
 
 <p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXNjaDRsZTg5ZDJhbW56bWRxeG5sdGNsZWFndGlhbTYzeWppbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="200" align="right" id="header">
