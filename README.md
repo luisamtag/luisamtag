@@ -1,8 +1,9 @@
 ## 👋🌎​ Hello World I'm Luisa
-<p>Hola a todos soy luisa, es un gusto tenerlos por aqui. Cada dia estoy aprendiendo mas de este maravilloso mundo de la tecnologia, desde muy joven me gusto el frontend y si no ves mucha actividad por aqui, es porque tambien soy una persona extrovertida y alegre.
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXNjaDRsZTg5ZDJhbW56bWRxeG5sdGNsZWFndGlhbTYzeWppbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="200"/>
-</div></p>
+
+<p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXNjaDRsZTg5ZDJhbW56bWRxeG5sdGNsZWFndGlhbTYzeWppbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width="200" align="right" id="header">
+Hola a todos soy luisa, es un gusto tenerlos por aqui. Cada dia estoy aprendiendo mas de este maravilloso mundo de la tecnologia, desde muy joven me gusto el frontend y si no ves mucha actividad por aqui, es porque tambien soy una persona extrovertida y alegre.
+</p>
 
 ### Contactame ​📟
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-maria-tamayo/)
