@@ -5,6 +5,23 @@
 Hola a todos soy luisa, es un gusto tenerlos por aqui. Cada dia estoy aprendiendo mas de este maravilloso mundo de la tecnologia, desde muy joven me gusto el frontend y si no ves mucha actividad por aqui, es porque tambien soy una persona extrovertida y alegre.
 </p>
 
+##Acerca de mí
+<p>
+💻 Desarrolladora Frontend apasionada por crear experiencias digitales intuitivas y responsivas. Con una sólida base en tecnologías como React, Vue, Node.js y herramientas de diseño como SASS, Tailwind CSS y Bootstrap, disfruto transformar ideas en productos digitales atractivos y funcionales.
+
+🎯 Experiencia en proyectos prácticos y freelancing:
+He desarrollado páginas web desde cero, implementando soluciones como navegación dinámica con React Router DOM y optimizaciones de carga, lo que ha mejorado significativamente la experiencia del usuario y los tiempos de respuesta. Además, me especializo en interfaces que destacan tanto en diseño como en funcionalidad, siempre priorizando la experiencia del usuario y la accesibilidad.
+
+📚 Educación continua:
+Actualmente, estoy cursando el programa de Tecnología en Desarrollo de Software en el ITM, complementado con capacitaciones en Node.js, React y JavaScript avanzado. Mi enfoque en aprendizaje constante me permite estar al día con las últimas tendencias en desarrollo frontend.
+
+🌟 Habilidades destacadas:
+Frameworks y librerías: React, Vue, Tailwind CSS, Bootstrap.
+Gestión de rutas: React Router DOM y Node.js.
+Diseño de interfaces: Desarrollo modular, responsivo y accesible.
+Idiomas: Inglés B1, en constante mejora.
+💡 Busco nuevas oportunidades para aplicar mis habilidades y aprender en equipos que valoren la innovación, el diseño de calidad y la colaboración. Si estás buscando a alguien para potenciar tu equipo de desarrollo frontend, ¡conectemos! 🚀</p>
+
 ### Contactame ​📟
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-maria-tamayo/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisamtag)
