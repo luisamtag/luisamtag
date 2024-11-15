@@ -5,7 +5,8 @@
 Hola a todos soy luisa, es un gusto tenerlos por aqui. Cada dia estoy aprendiendo mas de este maravilloso mundo de la tecnologia, desde muy joven me gusto el frontend y si no ves mucha actividad por aqui, es porque tambien soy una persona extrovertida y alegre.
 </p>
 
-##Acerca de mí
+## Acerca de mí
+
 <p>
 💻 Desarrolladora Frontend apasionada por crear experiencias digitales intuitivas y responsivas. Con una sólida base en tecnologías como React, Vue, Node.js y herramientas de diseño como SASS, Tailwind CSS y Bootstrap, disfruto transformar ideas en productos digitales atractivos y funcionales.
 
